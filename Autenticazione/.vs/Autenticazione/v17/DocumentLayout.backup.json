@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\pages\\registrazione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\pages\\registrazione.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\models\\amministratore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\models\\amministratore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\services\\iservicescrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\services\\iservicescrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\services\\iservicelettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\services\\iservicelettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\context\\autenticazionecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\context\\autenticazionecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\services\\amministratoreservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\services\\amministratoreservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\repos\\amministratorerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\repos\\amministratorerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\services\\utenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\services\\utenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\models\\utentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\models\\utentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\repos\\utenterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\repos\\utenterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\models\\amministratoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\models\\amministratoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\repos\\ireposscrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\repos\\ireposscrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\repos\\ireposlettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\repos\\ireposlettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|c:\\users\\utente\\desktop\\task_fine_carriera\\autenticazione\\autenticazione\\autenticazione.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D371B107-A195-415E-9C76-361640DC4D3A}|Autenticazione\\Autenticazione.csproj|solutionrelative:autenticazione\\autenticazione.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 388,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registrazione.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Pages\\Registrazione.cshtml",
+              "RelativeDocumentMoniker": "Autenticazione\\Pages\\Registrazione.cshtml",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Pages\\Registrazione.cshtml*",
+              "RelativeToolTip": "Autenticazione\\Pages\\Registrazione.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T18:22:41.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Autenticazione\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:57:53.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Autenticazione\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Autenticazione\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T17:56:50.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Autenticazione\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Autenticazione\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T17:46:35.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutenticazioneContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Context\\AutenticazioneContext.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Context\\AutenticazioneContext.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Context\\AutenticazioneContext.cs",
+              "RelativeToolTip": "Autenticazione\\Context\\AutenticazioneContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:53:54.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AmministratoreRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Repos\\AmministratoreRepo.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Repos\\AmministratoreRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Repos\\AmministratoreRepo.cs",
+              "RelativeToolTip": "Autenticazione\\Repos\\AmministratoreRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:51:52.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AmministratoreServices.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Services\\AmministratoreServices.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Services\\AmministratoreServices.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Services\\AmministratoreServices.cs",
+              "RelativeToolTip": "Autenticazione\\Services\\AmministratoreServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:50:13.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IServiceLettura.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Services\\IServiceLettura.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Services\\IServiceLettura.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Services\\IServiceLettura.cs",
+              "RelativeToolTip": "Autenticazione\\Services\\IServiceLettura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:09:33.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServiceScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Services\\IServiceScrittura.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Services\\IServiceScrittura.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Services\\IServiceScrittura.cs",
+              "RelativeToolTip": "Autenticazione\\Services\\IServiceScrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:11:15.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Autenticazione\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Autenticazione\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T18:40:23.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Amministratore.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Models\\Amministratore.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Models\\Amministratore.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Models\\Amministratore.cs",
+              "RelativeToolTip": "Autenticazione\\Models\\Amministratore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:39:24.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Program.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Program.cs",
+              "RelativeToolTip": "Autenticazione\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:01:14.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Autenticazione\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:49:16.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\appsettings.json",
+              "RelativeDocumentMoniker": "Autenticazione\\appsettings.json",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\appsettings.json",
+              "RelativeToolTip": "Autenticazione\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T16:30:59.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UtenteController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Controllers\\UtenteController.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Controllers\\UtenteController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Controllers\\UtenteController.cs",
+              "RelativeToolTip": "Autenticazione\\Controllers\\UtenteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:54:06.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UtenteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Repos\\UtenteRepo.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Repos\\UtenteRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Repos\\UtenteRepo.cs",
+              "RelativeToolTip": "Autenticazione\\Repos\\UtenteRepo.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:13:38.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UtenteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Models\\UtenteDTO.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Models\\UtenteDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Models\\UtenteDTO.cs",
+              "RelativeToolTip": "Autenticazione\\Models\\UtenteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:43:15.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AmministratoreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Models\\AmministratoreDTO.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Models\\AmministratoreDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Models\\AmministratoreDTO.cs",
+              "RelativeToolTip": "Autenticazione\\Models\\AmministratoreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:40:20.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IreposScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Repos\\IreposScrittura.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Repos\\IreposScrittura.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Repos\\IreposScrittura.cs",
+              "RelativeToolTip": "Autenticazione\\Repos\\IreposScrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:10:59.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IReposLettura.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Repos\\IReposLettura.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Repos\\IReposLettura.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Repos\\IReposLettura.cs",
+              "RelativeToolTip": "Autenticazione\\Repos\\IReposLettura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:06:13.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Models\\Utente.cs",
+              "RelativeToolTip": "Autenticazione\\Models\\Utente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:42:06.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Models\\Login.cs",
+              "RelativeToolTip": "Autenticazione\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:40:59.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Autenticazione.csproj",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Autenticazione.csproj",
+              "RelativeDocumentMoniker": "Autenticazione\\Autenticazione.csproj",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Autenticazione.csproj",
+              "RelativeToolTip": "Autenticazione\\Autenticazione.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T16:23:46.58Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UtenteService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Services\\UtenteService.cs",
+              "RelativeDocumentMoniker": "Autenticazione\\Services\\UtenteService.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Task_Fine_Carriera\\Autenticazione\\Autenticazione\\Services\\UtenteService.cs",
+              "RelativeToolTip": "Autenticazione\\Services\\UtenteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:01:19.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
